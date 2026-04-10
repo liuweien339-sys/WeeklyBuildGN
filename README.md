@@ -1,3 +1,4 @@
 # WeeklyBuildGN
-每隔一段时间克隆源码编译GN工具链 一般都是aarch64Ubuntu设备可以使用的
+每隔一段时间克隆源码编译gn工具链来自链接
+[gn](gn.googlesource.com/gn)
 
